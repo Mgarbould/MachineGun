@@ -1,0 +1,4 @@
+name: MachineGun
+version: '${project.version}'
+main: machinegun.max.me.machinegun.MachineGun
+api-version: 1.18
